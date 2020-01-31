@@ -5,7 +5,7 @@ This game is built using only ReactJS.
 
 To play this game:
 
-git clone https://github.com/saurabhnk-94/Sudoku.git
+git clone https://github.com/SaneeyaIqbal/Sudoku.git
 Get into the folder type this in terminal:
 
 cd sudoku
